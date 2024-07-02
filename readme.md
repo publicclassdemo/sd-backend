@@ -1,6 +1,6 @@
 1. install sanic
 
-```python
-pip3 intsall sanic
+```shell
+pip3 install sanic
 ```
 
